@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is another data
 
+=======
+This is my file
+
+Adding b2 also.
+>>>>>>> b2
